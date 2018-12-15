@@ -1,0 +1,4 @@
+- abalone.csv contains the preprocessed dataset required to perform the experiments in the first part of the report. 
+- Download ABAGAIL package from: https://github.com/pushkar/ABAGAIL
+- copy source code and the abalone.csv file to src/opt/mling7/
+- compile abajail.jar using the "ant" command and run the .java files in the mling7 folder. Results of the tests are output to csv files in a folder called "Optimization_Results" that will be located in the ABAGAIL base directory. Excel was used to visualize the data represented in the csv files. 
